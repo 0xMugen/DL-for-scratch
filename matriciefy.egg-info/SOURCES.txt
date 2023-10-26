@@ -1,0 +1,9 @@
+README.md
+setup.py
+dlproc/__init__.py
+dlproc/matriciefy.py
+dlproc/neuralnet.py
+matriciefy.egg-info/PKG-INFO
+matriciefy.egg-info/SOURCES.txt
+matriciefy.egg-info/dependency_links.txt
+matriciefy.egg-info/top_level.txt
